@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bPmo4V8OF1q6SNg1tHbwzCe5qy4zdQeCYKQvDm57vC52t1dzidlVm4Nqm540eL0nWoPfgAfGIZCE8GfMsnRRDA==",
+  "dgSpecHash": "Ye9Dms6xEkH+PAzIPK8pwFxsjqLdSTjjWCMefmCRb7CdfJ+fxjj3T00TvEFwQBANgCWAyFCht1PD/jj2iZ0p1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferch\\Documents\\TI Practices\\Melonn Application\\backend\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\ferch\\Documents\\TI Practices\\Melonn Application\\MelonnApp\\backend\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

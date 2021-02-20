@@ -3649,11 +3649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferch\\Documents\\TI Practices\\Melonn Application\\backend\\Melonn.csproj",
+      "projectUniqueName": "C:\\Users\\ferch\\Documents\\TI Practices\\Melonn Application\\MelonnApp\\backend\\Melonn.csproj",
       "projectName": "Melonn",
-      "projectPath": "C:\\Users\\ferch\\Documents\\TI Practices\\Melonn Application\\backend\\Melonn.csproj",
+      "projectPath": "C:\\Users\\ferch\\Documents\\TI Practices\\Melonn Application\\MelonnApp\\backend\\Melonn.csproj",
       "packagesPath": "C:\\Users\\ferch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferch\\Documents\\TI Practices\\Melonn Application\\backend\\obj\\",
+      "outputPath": "C:\\Users\\ferch\\Documents\\TI Practices\\Melonn Application\\MelonnApp\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferch\\AppData\\Roaming\\NuGet\\NuGet.Config"
