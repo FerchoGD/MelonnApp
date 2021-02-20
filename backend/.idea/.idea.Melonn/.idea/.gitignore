@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Melonn.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\ferch\Documents\TI Practices\Melonn Application\backend\Melonn\.idea\.idea.Melonn\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
